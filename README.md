@@ -6,6 +6,7 @@
 - 💻 Currently learning NextJs, Java SpringBoot, Dart, Node.Js
 - 🌱 Open Source Enthusiast
 - 📫 Reach me: navodhyasenali@gmail.com
+- Portfolio link - https://senali2001.github.io/portfolio/
 
   
 ## Connect with Me
